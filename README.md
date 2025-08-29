@@ -1,2 +1,8 @@
-# ecommerce-sales-analysis
-An exploratory analysis of customer behavior and revenue trends using Excel and Tableau.
+This project analyzes online retail sales data to uncover customer behavior patterns and recommend business strategies to increase revenue and retention.
+
+## Tools Used
+- Tableau
+- Excel
+
+
+
